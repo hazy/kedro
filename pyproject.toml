@@ -9,7 +9,7 @@ authors = [
     {name = "Kedro"}
 ]
 description = "Kedro helps you build production-ready data and analytics pipelines"
-requires-python = ">=3.7, <3.11"
+requires-python = ">=3.7"
 keywords = [
     "pipelines",
     "machine learning",
@@ -24,6 +24,7 @@ classifiers = [
     "Programming Language :: Python :: 3.8",
     "Programming Language :: Python :: 3.9",
     "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
 ]
 dynamic = ["readme", "version", "dependencies", "optional-dependencies"]
 
